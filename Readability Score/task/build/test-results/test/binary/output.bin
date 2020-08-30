@@ -1,0 +1,45 @@
+[1;31m
+Start test 1[0m
+> all
+
+Words: 108
+Sentences: 6
+Characters: 580
+Syllables: 185
+Polysyllables: 21
+BEnter the core you want to calculate (ARI, FK, SMOG, CL, all): all
+
+5Automated Readability Index: 13 (about 19 year olds).
+LFlesch–Kincaid readability tests: 11.642962962962962 (about 18 year olds).
+GSimple Measure of Gobbledygook: 13.81666964889586 (about 20 year olds).
+=Coleman–Liau index: 14.13333333333333 (about 20 year olds).
+[1;31m
+Start test 2[0m
+> all
+
+Words: 137
+Sentences: 14
+Characters: 687
+Syllables: 205
+Polysyllables: 17
+BEnter the core you want to calculate (ARI, FK, SMOG, CL, all): all
+
+4Automated Readability Index: 7 (about 13 year olds).
+KFlesch–Kincaid readability tests: 5.883362877997914 (about 12 year olds).
+<Simple Measure of Gobbledygook: 9.3871 (about 15 year olds).
+>Coleman–Liau index: 10.661021897810219 (about 17 year olds).
+[1;31m
+Start test 3[0m
+> all
+
+Words: 180
+Sentences: 13
+Characters: 982
+Syllables: 299
+Polysyllables: 29
+BEnter the core you want to calculate (ARI, FK, SMOG, CL, all): all
+
+5Automated Readability Index: 12 (about 18 year olds).
+KFlesch–Kincaid readability tests: 9.411111111111115 (about 15 year olds).
+HSimple Measure of Gobbledygook: 11.602472056035307 (about 18 year olds).
+>Coleman–Liau index: 14.140888888888885 (about 20 year olds).

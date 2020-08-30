@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Problems/A simple calculator" />
+            <option value="$PROJECT_DIR$/Problems/Account" />
+            <option value="$PROJECT_DIR$/Problems/Advanced calculator" />
+            <option value="$PROJECT_DIR$/Problems/Are siblings" />
+            <option value="$PROJECT_DIR$/Problems/Avoid division by zero" />
+            <option value="$PROJECT_DIR$/Problems/Basic calculator" />
+            <option value="$PROJECT_DIR$/Problems/Book" />
+            <option value="$PROJECT_DIR$/Problems/Books" />
+            <option value="$PROJECT_DIR$/Problems/Catching some exceptions" />
+            <option value="$PROJECT_DIR$/Problems/Classes for Hospital" />
+            <option value="$PROJECT_DIR$/Problems/Complex" />
+            <option value="$PROJECT_DIR$/Problems/Converting and multiplying" />
+            <option value="$PROJECT_DIR$/Problems/Direction" />
+            <option value="$PROJECT_DIR$/Problems/Fix compile-time errors" />
+            <option value="$PROJECT_DIR$/Problems/Fix the program" />
+            <option value="$PROJECT_DIR$/Problems/Getting the fullname" />
+            <option value="$PROJECT_DIR$/Problems/Heron's formula" />
+            <option value="$PROJECT_DIR$/Problems/Parameters and their values" />
+            <option value="$PROJECT_DIR$/Problems/Points on the 2D plane" />
+            <option value="$PROJECT_DIR$/Problems/Pow" />
+            <option value="$PROJECT_DIR$/Problems/Representing time as a class" />
+            <option value="$PROJECT_DIR$/Problems/Shape" />
+            <option value="$PROJECT_DIR$/Problems/The angle between vectors" />
+            <option value="$PROJECT_DIR$/Problems/What's wrong" />
+            <option value="$PROJECT_DIR$/Readability Score/task" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

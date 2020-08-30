@@ -1,0 +1,24 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: // write your class here
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2945
+status: Failed
+feedback:
+  message: |
+    Compilation error
+    Main.java:9: error: cannot find symbol
+            final Book book = new Book();
+                  ^
+      symbol:   class Book
+      location: class BookDemo
+    Main.java:9: error: cannot find symbol
+            final Book book = new Book();
+                                  ^
+      symbol:   class Book
+      location: class BookDemo
+    2 errors
+  time: Fri, 26 Jun 2020 11:32:25 UTC
+record: -1
